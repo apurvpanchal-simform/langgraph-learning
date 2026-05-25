@@ -12,6 +12,7 @@ dependencies = [
     "langchain-nomic>=1.0.1",
     "langchain-openrouter>=0.2.3",
     "langchain-pinecone>=0.2.13",
+    "langchain-tavily>=0.2.18",
     "langgraph>=1.2.0",
     "pypdf>=6.11.0",
     "python-dotenv>=1.2.2",
